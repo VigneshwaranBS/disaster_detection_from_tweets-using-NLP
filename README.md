@@ -1,1 +1,1 @@
-## disaster detection from tweets using NLp
+## disaster detection from tweets using NLP
